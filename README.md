@@ -9,3 +9,4 @@ Qunit Start：[html](https://github.com/MckeyHong/mk_QUnit/blob/master/demo_quni
 4. expect：[html](https://github.com/MckeyHong/mk_QUnit/blob/master/assert/demo_expect.html)、[qunit](https://github.com/MckeyHong/mk_QUnit/blob/master/assert/qunit/demo_expect.js)
 5. notDeepEqual：[html](https://github.com/MckeyHong/mk_QUnit/blob/master/assert/demo_notDeepEqual.html)、[qunit](https://github.com/MckeyHong/mk_QUnit/blob/master/assert/qunit/demo_notDeepEqual.js)
 6. notEqual：[html](https://github.com/MckeyHong/mk_QUnit/blob/master/assert/demo_notEqual.html)、[qunit](https://github.com/MckeyHong/mk_QUnit/blob/master/assert/qunit/demo_notEqual.js)
+7. notOk：[html](https://github.com/MckeyHong/mk_QUnit/blob/master/assert/demo_notOk.html)、[qunit](https://github.com/MckeyHong/mk_QUnit/blob/master/assert/qunit/demo_notOk.js)
