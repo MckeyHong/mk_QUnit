@@ -12,3 +12,4 @@ Qunit Start：[html](https://github.com/MckeyHong/mk_QUnit/blob/master/demo_quni
 7. notOk：[html](https://github.com/MckeyHong/mk_QUnit/blob/master/assert/demo_notOk.html)、[qunit](https://github.com/MckeyHong/mk_QUnit/blob/master/assert/qunit/demo_notOk.js)
 8. notPropEqual：[html](https://github.com/MckeyHong/mk_QUnit/blob/master/assert/demo_notPropEqual.html)、[qunit](https://github.com/MckeyHong/mk_QUnit/blob/master/assert/qunit/demo_notPropEqual.js)
 9. notStrictEqual：[html](https://github.com/MckeyHong/mk_QUnit/blob/master/assert/demo_notStrictEqual.html)、[qunit](https://github.com/MckeyHong/mk_QUnit/blob/master/assert/qunit/demo_notStrictEqual.js)
+10. ok：[html](https://github.com/MckeyHong/mk_QUnit/blob/master/assert/demo_ok.html)、[qunit](https://github.com/MckeyHong/mk_QUnit/blob/master/assert/qunit/demo_ok.js)
